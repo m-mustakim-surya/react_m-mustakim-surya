@@ -65,7 +65,7 @@ table {
 .red, .blue, .green{
     text-align: center;
     color: white;
-    font-family: 'Slabo 27px';
+    font-family: 'Slabo 27px', serif;
     font-size: 20px;
 }
 
