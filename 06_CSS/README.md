@@ -51,6 +51,8 @@
   
   ![ss file1](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/06_CSS/06_CSS/screenshots/file1.png)
 
+
+
 2. Buatlah sebuah file dengan nama [file2.html](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/06_CSS/06_CSS/praktikum/file2.html) dengan desain seperti berikut. Di bagian header kalian diberi kebebasan untuk memperbaiki bentuk dan responsive. Yang terpenting konten dan letak dari header masih sama.
   Berikut ini merupakan hasil kerja saya :
   
