@@ -1,4 +1,4 @@
-#Resume Materi KMReact – CSS
+# Resume Materi KMReact – CSS
 - CSS (Cascading Style Sheet) merupakan bahasa cascading style yang biasa digunakan untuk mengatur tampilan elemen yang tertulis pada bahasa markup, dalam kasus ini tentunya HTML. CSS menjadi media yang dapat menata tampilan web dari pondasi HTML yang ada. Dengan adanya CSS kita tak perlu mendeskripsikan tampilan masing-masing elemen berulang-ulang, code jadi lebih singkat, dan meminimalisir error. Struktur syntax CSS berupa `selector` {`declaration block` : `value`}. Selector di sini merupakan elemen HTML yang nantinya akan diatur dengan property yang ada di CSS itu sendiri.
 
 - CSS dapat diinclude ke dalam program web dengan 3 cara :
@@ -41,7 +41,7 @@
   - Animation
 
 
-#Praktikum CSS
+# Praktikum CSS
 
 [Assets for download](https://drive.google.com/drive/folders/16m3xV7aPfUd-UnKCbZqJd2sSV6XBBW0B?usp=sharing)
 
