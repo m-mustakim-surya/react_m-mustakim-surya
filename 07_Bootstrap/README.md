@@ -33,7 +33,7 @@
 [Assets](https://drive.google.com/drive/folders/1_RAwdOyJrOm2msEmOCUtlVOmjzt7jXkL?usp=sharing)
 
 1. Buatlah header yang responsive dengan bentuk sebagai berikut
-  Berikut ini merupakan hasil kerja saya :
+Berikut ini merupakan hasil kerja saya :
   ![ss header](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/07_Bootstrap/07_Bootstrap/screenshots/1_header.PNG)
   
   Berikut tampilan responsivenya :
@@ -41,14 +41,14 @@
 
 
 2. Buatlah body berikut
-  Berikut ini merupakan hasil kerja saya :
+Berikut ini merupakan hasil kerja saya :
   
   ![ss body-a](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/07_Bootstrap/07_Bootstrap/screenshots/2_body-a.PNG)
   
   ![ss body-b](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/07_Bootstrap/07_Bootstrap/screenshots/2_body-b.PNG)
 
 3. Untuk footer buatlah seperti berikut
-  Berikut ini merupakan hasil kerja saya :
+Berikut ini merupakan hasil kerja saya :
   
   ![ss_footer](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/07_Bootstrap/07_Bootstrap/screenshots/3_footer.PNG)
 
