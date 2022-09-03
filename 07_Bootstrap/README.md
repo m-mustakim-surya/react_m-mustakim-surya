@@ -13,18 +13,18 @@
  
 - Bootstrap memiliki beberapa kelebihan dan kekurangan sebagai berikut
   Kelebihan Bootstrap :
-  1. Memberi kemudahan membuat website yang responsive
-  2. Lebih efisien dalam waktu pembuatan website
-  3. Dapat meminimalisir bug antar browser
-  4. Banyak fitur custom yang dapat digunakan
-  5. Dapat meningkatkan konsistensi desain
-  6. Open-source
-  7. Banyaknya resource & support yang tersedia
+  - Memberi kemudahan membuat website yang responsive
+  - Lebih efisien dalam waktu pembuatan website
+  - Dapat meminimalisir bug antar browser
+  - Banyak fitur custom yang dapat digunakan
+  - Dapat meningkatkan konsistensi desain
+  - Open-source
+  - Banyaknya resource & support yang tersedia
 
   Kekurangan Bootstrap :
-  1. Memiliki tampilan yang mirip satu sama lain antar website Bootstrap
-  2. Perlunya pembelajaran ulang untuk mengetahui class Bootstrap agar dapat digunakan
-  3. Memperlambat performance website jika tanpa optimasi yang baik akibat load time
+  - Memiliki tampilan yang mirip satu sama lain antar website Bootstrap
+  - Perlunya pembelajaran ulang untuk mengetahui class Bootstrap agar dapat digunakan
+  - Memperlambat performance website jika tanpa optimasi yang baik akibat load time
 
 
 
