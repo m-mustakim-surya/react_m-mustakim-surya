@@ -6,11 +6,11 @@
 - Javascript memiliki beberapa tipe data yang dibagi menjadi 2 jenis, yaitu :
     - Tipe data primitive <br>Tipe data primitif hanya dapat menyimpan satu nilai dalam satu waktu dan tidak dapat diubah  seperti tipe data non-primitif. Tipe data primitif dianggap sama jika nilainya sama. Contohnya : Number, String, Boolean, Undefined, Null, dan Symbol.
     - Tipe data non-primitive <br>Tipe data non-primitive dapat menyimpan dan mengubah beberapa nilai sekaligus. Tipe data non-primitive dianggap berbeda meskipun nilainya sama dan dalam urutan yang sama. Contohnya : Function, Array, dan Object. <br>Pendeklarasian variable yang ada pun beragam, kita dapat menggunakan `var`, `let`, atau `const`, untuk sifatnya masing-masing ialah sebagai berikut : <br>
-|     |Block Scoped|Function Scoped|Reassignable|Redecralable|Can be hoisted|
-|-----|------------|---------------|------------|------------|--------------|
-|var  |v           |v              |v           |v           |v             |
-|let  |x           |v              |v           |v           |x             |
-|const|x           |v              |x           |x           |x             |
+| -     | Block Scoped | Function Scoped | Reassignable | Redecralable | Can be hoisted |
+| ----- | ------------ | --------------- | ------------ | ------------ | -------------- |
+| var  |v           | v              |v           |v           |v             |
+| let  |x           | v              |v           |v           |x             |
+| const |x           | v              |x           |x           |x             |
 <br><br>
 # Praktikum Javascript Refreshment
 
