@@ -1,3 +1,17 @@
+# Resume Materi KMReact – Javascript Refreshment
+- Javascript merupakan bahasa pemrograman yang digunakan untuk mengembangkan situs web agar lebih dinamis dan interaktif. Untuk melengkapi HTML sebagai pondasi dan CSS sebagai sebuah skin, Javascript meningkatkan fungsionalitas sebuah halaman web. Kita bahkan dapat menggunakan Javascript untuk membuat aplikasi, alat, dan bahkan game di web. Javascript digunakan tidak hanya untuk membuat web  lebih dinamis dan interaktif, tetapi juga untuk menangani logika data. Pada dasarnya fitur Javascript digunakan tidak hanya di Front-End tetapi juga di Back-End. File Javascript umumnya di-link pada bagian bawah body HTML melalui tag `<script>`, contohnya sebagai berikut :
+```
+<script src="script.js"></script>
+```
+- Javascript memiliki beberapa tipe data yang dibagi menjadi 2 jenis, yaitu :
+    - Tipe data primitive <br>Tipe data primitif hanya dapat menyimpan satu nilai dalam satu waktu dan tidak dapat diubah  seperti tipe data non-primitif. Tipe data primitif dianggap sama jika nilainya sama. Contohnya : Number, String, Boolean, Undefined, Null, dan Symbol.
+    - Tipe data non-primitive <br>Tipe data non-primitive dapat menyimpan dan mengubah beberapa nilai sekaligus. Tipe data non-primitive dianggap berbeda meskipun nilainya sama dan dalam urutan yang sama. Contohnya : Function, Array, dan Object. <br>Pendeklarasian variable yang ada pun beragam, kita dapat menggunakan `var`, `let`, atau `const`, untuk sifatnya masing-masing ialah sebagai berikut : <br>
+|     |Block Scoped|Function Scoped|Reassignable|Redecralable|Can be hoisted|
+|-----|------------|---------------|------------|------------|--------------|
+|var  |[x]         |[x]            |[x]         |[x]         |[x]           |
+|let  |[]          |[x]            |[x]         |[x]         |[]            |
+|const|[]          |[x]            |[]          |[]          |[]            |
+<br><br>
 # Praktikum Javascript Refreshment
 
 1. Tulis ulang kode di bawah, dan simpan dengan format javascript.
