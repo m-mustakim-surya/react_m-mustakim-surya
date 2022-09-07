@@ -33,7 +33,7 @@ console.log("asal diakses = " + asal);
 console.log("a adalah = " + a);
 console.log("b adalah = " + b);
 ```
-<br>    a. Ambillah index ke 2 dalam array di baris 5 dan tampilkan dalam console
+    a. Ambillah index ke 2 dalam array di baris 5 dan tampilkan dalam console
 <br>    b. Ubah kode diatas sehingga dapat menampilkan baris 22 di dalam console
 <br>    c. Lakukan pemanggilan untuk function perkenalan pada baris ke 31
 <br>    d. Kalian bebas mengubah kode di atas sehingga menampilkan output pada console seperti pada gambar di bawah
@@ -53,7 +53,7 @@ bernama a, Sita tersimpan dalam variabel bernama b, dan Ayutersimpan dalam varia
 ```
 const foo = ['Budi', 'Sita', 'Ayu'];
 ```
-<br>    Berikut ini merupakan hasil kerja saya : [no3.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/08_Javascript-Refreshment/08_Javascript%20Refreshment/praktikum/no3.js)
+    Berikut ini merupakan hasil kerja saya : [no3.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/08_Javascript-Refreshment/08_Javascript%20Refreshment/praktikum/no3.js)
 <br>    ![ss_3](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/08_Javascript-Refreshment/08_Javascript%20Refreshment/screenshots/no3.PNG)
 <br><br>
 
