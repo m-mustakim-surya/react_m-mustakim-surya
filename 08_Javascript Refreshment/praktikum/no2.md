@@ -1,7 +1,7 @@
 ### 2. Jawab pertanyaan dibawah sesuai dengan materi yang telah dijelaskan
 
 a. Jelaskan kenapa baris 21, 22, 23 tidak tampil?
-    - Hal ini disebabkan oleh deklarasi `terdaftar` pada baris ke 4 (pada soal) yang dibuat memiliki nilai Boolean false, sedangkan pada baris ke 21 pengkondisian yang dibuat agar memunculkan
+<br>Hal ini disebabkan oleh deklarasi `terdaftar` pada baris ke 4 (pada soal) yang dibuat memiliki nilai Boolean false, sedangkan pada baris ke 21 pengkondisian yang dibuat agar memunculkan
 ```
 console.log(nama + " terdaftar sebagai kegiatan kampus merdeka");
 ```
