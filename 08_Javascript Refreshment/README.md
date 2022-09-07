@@ -14,7 +14,8 @@ Untuk sifatnya masing-masing ialah sebagai berikut :
 | <b>let</b>       | x            | v               | v            | v            | x              |
 | <b>const</b>     | x            | v               | x            | x            | x              |
 
-<br>
+- Pada Javascript terdapat konsep Asynchronous yaitu hasil atau keluaran dari eksekusi yang tidak selalu berdasarkan urutan kode, tetapi pada waktu pemrosesan. Eksekusi asinkron tidak memblocking atau menunggu perintah selesai, melainkan mengeksekusi perintah berikutnya secara asinkron. Contohnya : Async Await, Callback, dan Promise. Selain itu, terdapat juga objek Javascript spesial yang dapat dipakai untuk mendapatkan struktur dokumen website, bahkan memanipulasinya, yakni Javascript DOM (Document Object Model). DOM ini adalah model objek XML dan HTML standar dengan properti platform-independen. Pada tingkat yang  paling sederhana, sebuah situs  web terdiri dari dokumen HTML dan CSS. Browser membuat representasi dari dokumen yang  disebut  DOM (Document Object Model). Dokumen-dokumen ini memungkinkan JavaScript untuk mengakses dan memanipulasi elemen dan gaya situs web.
+<br></br>
 # Praktikum Javascript Refreshment
 
 1. Tulis ulang kode di bawah, dan simpan dengan format javascript.
