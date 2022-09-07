@@ -1,7 +1,7 @@
 ### 2. Jawab pertanyaan dibawah sesuai dengan materi yang telah dijelaskan
 
 a. Jelaskan kenapa baris 21, 22, 23 tidak tampil?
-    Hal ini disebabkan oleh deklarasi `terdaftar` pada baris ke 4 (pada soal) yang dibuat memiliki nilai Boolean false, sedangkan pada baris ke 21 pengkondisian yang dibuat agar memunculkan
+    - Hal ini disebabkan oleh deklarasi `terdaftar` pada baris ke 4 (pada soal) yang dibuat memiliki nilai Boolean false, sedangkan pada baris ke 21 pengkondisian yang dibuat agar memunculkan
 ```
 console.log(nama + " terdaftar sebagai kegiatan kampus merdeka");
 ```
@@ -12,10 +12,10 @@ if (terdaftar === true)
 . Pengkondisian `if` yang tidak sesuai tentu saja tidak akan memberi aksi apapun. Oleh karena itu, cara penyelesaiannya agar dapat tampil ialah dengan mengubah nilai Boolean terdaftar pada baris ke 4 menjadi true atau sebaliknya mengubah nilai Boolean terdaftar pada pengkondisian `if` baris ke 22 menjadi false. Di sini saya mengubah nilai Boolean terdaftar pada baris ke 4 menjadi true saja.
 
 b. Jelaskan kenapa deklarasi pada baris 26 menyebabkan error?
-    Hal ini disebabkan oleh adanya `nama = b;` pada baris ke 26 yang menyebabkan error karena perbedaan deklarasi antara `nama` yang menggunakan `const` (baris ke 3 pada soal) dan `b` yang menggunakan `let` (baris ke 2 pada soal). Sebagaimana yang kita ketahui, data pada deklarasi `const` tidak dapat di-reassign dan di-redeclare sehingga terjadi error.
+    - Hal ini disebabkan oleh adanya `nama = b;` pada baris ke 26 yang menyebabkan error karena perbedaan deklarasi antara `nama` yang menggunakan `const` (baris ke 3 pada soal) dan `b` yang menggunakan `let` (baris ke 2 pada soal). Sebagaimana yang kita ketahui, data pada deklarasi `const` tidak dapat di-reassign dan di-redeclare sehingga terjadi error.
 
 c. Dengan melakukan komen pada baris ke 26, apakah baris ke 28 dapat dieksekusi? Jelaskan
-    Seperti yang telah disebutkan sebelumnya pada jawaban nomor 2.b), deklarasi `nama = b;` menyebabkan error akibat `const` yang tidak dapat di-reassign dan di-redeclare. Oleh karena itu, baris ke 28 yang telah diganti dari
+    - Seperti yang telah disebutkan sebelumnya pada jawaban nomor 2.b), deklarasi `nama = b;` menyebabkan error akibat `const` yang tidak dapat di-reassign dan di-redeclare. Oleh karena itu, baris ke 28 yang telah diganti dari
 ```
 console.log("asal diakses = " + asal);
 ```
