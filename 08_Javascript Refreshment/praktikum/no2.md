@@ -5,12 +5,10 @@ a. Jelaskan kenapa baris 21, 22, 23 tidak tampil?
     ```
     console.log(nama + " terdaftar sebagai kegiatan kampus merdeka");
     ```
-
     adalah memiliki nilai Boolean true, sebagaimana yang tertulis pada baris ke 21
     ```
     if (terdaftar === true)
     ```
-
     . Pengkondisian `if` yang tidak sesuai tentu saja tidak akan memberi aksi apapun. Oleh karena itu, cara penyelesaiannya agar dapat tampil ialah dengan mengubah nilai Boolean terdaftar pada baris ke 4 menjadi true atau sebaliknya mengubah nilai Boolean terdaftar pada pengkondisian `if` baris ke 22 menjadi false. Di sini saya mengubah nilai Boolean terdaftar pada baris ke 4 menjadi true saja.
 
 b. Jelaskan kenapa deklarasi pada baris 26 menyebabkan error?
@@ -21,18 +19,13 @@ c. Dengan melakukan komen pada baris ke 26, apakah baris ke 28 dapat dieksekusi?
     ```
     console.log("asal diakses = " + asal);
     ```
-
     menjadi
     ```
     console.log("array = " + lengkapArr[2]);
     ```
-
     tentu dapat berjalan dengan baik.
-    
     Namun, jika yang ditanyakan ialah baris ke 28 pada soal awal, yaitu
     ```
     console.log("asal diakses = " + asal);
     ```
-
     , maka tetap tidak akan bisa berjalan dikarenakan variabel `asal` merupakan variabel yang dideklarasikan di dalam function perkenalan dengan menggunakan `let`. Seperti yang kita ketahui, deklarasi di dalam function scope hanya dapat diakses oleh function scope itu sendiri sementara pemanggilan variabel `asal` pada bari ke 28 soal awal memanggilnya pada global scope.
-
