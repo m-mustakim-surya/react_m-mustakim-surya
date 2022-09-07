@@ -1,6 +1,5 @@
-const foo = [ ' Budi ' , ' Sita ' , ' Ayu ' ];
-
-const [a,b,c] = foo;
+const foo = ['Budi', 'Sita', 'Ayu'];
+const [a, b, c] = foo;
 
 console.log(a);
 console.log(b);
