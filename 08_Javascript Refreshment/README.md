@@ -14,6 +14,7 @@ Untuk sifatnya masing-masing ialah sebagai berikut :
 | <b>let</b>       | x            | v               | v            | v            | x              |
 | <b>const</b>     | x            | v               | x            | x            | x              |
 
+<br>
 # Praktikum Javascript Refreshment
 
 1. Tulis ulang kode di bawah, dan simpan dengan format javascript.
