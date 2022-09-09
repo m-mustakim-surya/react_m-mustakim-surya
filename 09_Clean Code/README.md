@@ -2,7 +2,7 @@
 
 ### Apa Itu "Clean Code"?
 Clean code adalah kode program yang memiliki struktur kode yang terbentuk dengan baik dan terorganisir dengan baik. Kode program yang mengimplementasikan clean code lebih mudah dibaca dan dipahami karena setiap bagian kode memiliki arti dan fungsi untuk tujuan tertentu. Clean code diimplementasikan demi terciptanya work collaboration yang baik, feature development yang terstruktur, dan faster development
-<br>
+<br><br>
 
 ### Karakteristik "Clean Code"
 Clean code memiliki beberapa karakteristik, yaitu :
