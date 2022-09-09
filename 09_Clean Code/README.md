@@ -18,7 +18,6 @@ Clean code memiliki beberapa karakteristik, yaitu :
 <br>
 
 ### Prinsip "Clean Code"
-<br>
 Clean code memiliki beberapa karakteristik, yaitu :
 - Keep it so simple
 - Don't repeat yourself
