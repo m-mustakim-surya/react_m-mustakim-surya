@@ -15,7 +15,7 @@
   - Formatting dengan tepat
 <br>
 
-- Clean code memiliki beberapa karakteristik, yaitu :
+- Clean code memiliki beberapa prinsip, yaitu :
   - Keep it so simple
   - Don't repeat yourself
   - Refactoring
