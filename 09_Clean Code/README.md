@@ -15,7 +15,6 @@ Clean code memiliki beberapa karakteristik, yaitu :
 - Good function
 - Menggunakan konvensi
 - Formatting dengan tepat
-<br>
 
 ### Prinsip "Clean Code"
 Clean code memiliki beberapa karakteristik, yaitu :
