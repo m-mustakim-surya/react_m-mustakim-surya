@@ -19,3 +19,68 @@
   - Keep it so simple
   - Don't repeat yourself
   - Refactoring
+<br>
+
+# Praktikum Clean Code
+### Problem 1 - Analysis
+Kode berikut ini dituliskan tanpa mengikuti kebiasaan-kebiasaan penulisan yang disarankan.
+Berapa banyak kekurangan dalam penulisan kode tersebut?
+Bagian mana saja terjadi kekurangan tersebut?
+Tuliskan alasan dari setiap kekurangan tersebut!
+
+```javascript
+class user{
+    var id;
+    var username;
+    var password;
+}
+
+class uservice{
+    user[] users = [];
+    user[] getallusers(){
+        return users;
+    }
+
+    user getuserbyid(userid){
+        return users.filter(userid);
+    }
+}
+```
+
+<br>
+Berikut ini merupakan hasil kerja saya : [no1.md](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no1.md)
+
+<br><br>
+### Problem 2 - Rewrite
+Kode berikut ini dituliskan tanpa mengikuti kebiasaan-kebiasaan penulisan yang disarankan. Ubahlah penulisan kode berikut menjadi lebih terbaca dan rapi!
+
+```javascript
+class kendaraan {
+    var totalroda = 0;
+    var kecepatanperjam = 0;
+}
+
+class mobil extends kendaraan {
+    void berjalan() {
+        tambahkecepatan(10);
+    }
+
+    tambahkecepatan(var kecepatanbaru) {
+        kecepatanperjam = kecepatanperjam + kecepatanbaru;
+    }
+}
+
+void main() {
+    mobilcepat = new mobil();
+    mobilcepat.berjalan();
+    mobilcepat.berjalan();
+    mobilcepat.berjalan();
+
+    mobillamban = new mobil();
+    mobillamban.berjalan();
+}
+```
+
+<br>
+Berikut ini merupakan hasil kerja saya : [no2.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no2.js)
+<br> Outputnya sebagai berikut : ![ss_no2](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/screenshots/no2.PNG)
