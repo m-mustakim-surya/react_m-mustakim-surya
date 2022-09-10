@@ -83,4 +83,5 @@ void main() {
 
 <br> Berikut ini merupakan hasil kerja saya :
 [no2.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no2.js)
-<br> Outputnya sebagai berikut : ![ss_no2](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/screenshots/no2.PNG)
+<br> Outputnya sebagai berikut : 
+<br> ![ss_no2](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/screenshots/no2.PNG)
