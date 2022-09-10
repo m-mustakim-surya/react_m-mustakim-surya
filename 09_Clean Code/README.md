@@ -24,9 +24,9 @@
 # Praktikum Clean Code
 ### Problem 1 - Analysis
 Kode berikut ini dituliskan tanpa mengikuti kebiasaan-kebiasaan penulisan yang disarankan.
-Berapa banyak kekurangan dalam penulisan kode tersebut?
-Bagian mana saja terjadi kekurangan tersebut?
-Tuliskan alasan dari setiap kekurangan tersebut!
+<br> Berapa banyak kekurangan dalam penulisan kode tersebut?
+<br> Bagian mana saja terjadi kekurangan tersebut?
+<br> Tuliskan alasan dari setiap kekurangan tersebut!
 
 ```javascript
 class user{
