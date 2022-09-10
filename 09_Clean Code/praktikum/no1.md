@@ -4,7 +4,7 @@ Berapa banyak kekurangan dalam penulisan kode tersebut?
 Bagian mana saja terjadi kekurangan tersebut?
 Tuliskan alasan dari setiap kekurangan tersebut!
 
-```
+```javascript
 class user{
     var id;
     var username;
