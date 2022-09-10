@@ -48,7 +48,8 @@ class uservice{
 ```
 
 <br>
-Berikut ini merupakan hasil kerja saya : [no1.md](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no1.md)
+Berikut ini merupakan hasil kerja saya :
+[no1.md](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no1.md)
 
 <br><br>
 ### Problem 2 - Rewrite
@@ -82,5 +83,7 @@ void main() {
 ```
 
 <br>
-Berikut ini merupakan hasil kerja saya : [no2.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no2.js)
-<br> Outputnya sebagai berikut : ![ss_no2](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/screenshots/no2.PNG)
+Berikut ini merupakan hasil kerja saya :
+[no2.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/praktikum/no2.js)
+<br> Outputnya sebagai berikut :
+![ss_no2](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/09_Clean-Code/09_Clean%20Code/screenshots/no2.PNG)
