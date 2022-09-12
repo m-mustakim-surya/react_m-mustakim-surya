@@ -36,7 +36,7 @@ Flowchar adalah bagan alur atau diagram yang menampilkan langkah-langkah dan kep
 # Praktikum Introduction Algorithm
 ### Problem 1 - Bilangan Prima
 Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angka 1, yang faktor pembaginya adalah 1 dan bilangan itu sendiri. 2 dan 3 adalah bilangan prima. 4 bukanlah bilangan prima karena 4 bisa dibagi 2. Kamu diminta untuk membuat fungsi untuk menentukan bahwa sebuah bilangan termasuk bilangan prima atau tidak.
-<br> <b> Buatlah flowchart untuk menentukan bilangan prima menggunakan whimsical! </b>
+<br><br> <b> Buatlah flowchart untuk menentukan bilangan prima menggunakan whimsical! </b>
 <br> Sample Test Cases
 <br> Input : 3
 <br> Output : Bilangan Prima
@@ -46,7 +46,8 @@ Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angk
 <br> Output : Bukan Bilangan Prima
 <br><br> Berikut ini merupakan hasil kerja saya :
 <br> ![flow1](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/praktikum/no1-flowchart.png)
-<br> [no1.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/praktikum/no1.js)
+<br> Berikut ini merupakan file Javascript-nya : [no1.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/praktikum/no1.js)
+<br> Berikut ini merupakan outputnya :
 <br> ![ss1](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/screenshots/no1.PNG)
 <br><br>
 
@@ -57,7 +58,8 @@ Terdapat N tombol yang dinomori dari 1 hingga N dan sebuah lampu dalam keadaan m
 <br><b>Format keluaran sebuah baris berisi :</b>
 - "lampu mati", apabila keadaam akhir lampu adalah mati.
 - "lampu menyala", apabila keadaan akhir lampu adalah menyala.
-<br><b> Buatlah flowchart untuk algoritma tersebut menggunakan whimsical! </b>
+
+<br><br><b> Buatlah flowchart untuk algoritma tersebut menggunakan whimsical! </b>
 <br> Contoh Masukan
 <br> 5
 <br> Contoh Keluaran
@@ -68,6 +70,7 @@ Terdapat N tombol yang dinomori dari 1 hingga N dan sebuah lampu dalam keadaan m
 <br> lampu menyala
 <br><br> Berikut ini merupakan hasil kerja saya :
 <br> ![flow1](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/praktikum/no2-flowchart.png)
-<br> [no1.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/praktikum/no2.js)
+<br> Berikut ini merupakan file Javascript-nya : [no1.js](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/praktikum/no2.js)
+<br> Berikut ini merupakan outputnya : 
 <br> ![ss1](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/screenshots/no2.PNG)
 <br><br>
