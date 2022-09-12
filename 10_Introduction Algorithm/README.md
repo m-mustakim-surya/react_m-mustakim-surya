@@ -18,6 +18,7 @@ Algoritma dasar dibagi menjadi beberapa struktur, yaitu :
 - Looping
 
 <br>
+
 ### Pseudocode
 Pseudocode merupakan deskripsi dari algoritma pemrograman yang dituliskan secara sederhana dibandingkan dengan sintaksis bahasa pemrograman agar dapat dipahami oleh manusia secara lebih mudah. Pseudocode juga berguna untuk beberapa hal berikut ini :
 - Sebagai alat dokumentasi
@@ -26,5 +27,6 @@ Pseudocode merupakan deskripsi dari algoritma pemrograman yang dituliskan secara
 - Lebih mudah dalam mengembangkan aplikasi yang dibuat
 
 <br>
+
 ### Flowchart
 Flowchar adalah bagan alur atau diagram yang menampilkan langkah-langkah dan keputusan untuk melakukan sebuah proses dari suatu  program. Tiap langkahnya digambarkan dalam bentuk diagram dan dihubungkan dengan garis atau panah. Peran flowchart cukup penting dalam memutuskan sebuah langkah atau fungsionalitas dari project pembuatan program berskala besar dan membuat sebuah program menjadi lebih jelas, ringkas, dan mengurangi kemungkinan kesalahan dalam penafsiran.
