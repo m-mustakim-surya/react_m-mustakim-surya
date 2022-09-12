@@ -51,7 +51,7 @@ Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angk
 <br> ![ss1](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/10_Introduction-Algorithm/10_Introduction%20Algorithm/screenshots/no1.PNG)
 <br><br>
 
-### Problem 2 - Lampu dan Tombol!
+### Problem 2 - Lampu dan Tombol
 Terdapat N tombol yang dinomori dari 1 hingga N dan sebuah lampu dalam keadaan mati. Apabila tombol ke-i ditekan, keadaan lampu akan berubah (dari mati menjadi menyala, atau sebaliknya) jika N habis dibagi oleh i. Apabila masing-masing tombol ditekan tepat sekali, bagaimana keadaan lampu pada akhirnya?
 <br><b> Format Masukan</b>
 <br> Sebuah baris berisi sebuah bilangan, yaitu N.
