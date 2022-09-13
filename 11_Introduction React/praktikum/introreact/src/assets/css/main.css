@@ -55,9 +55,6 @@ header ul{
     font-size: 13px;
 }
 
-.navig a:link{
-}
-
 body .navig a.aktif{
     color: #F47522;
     font-weight: bold;
@@ -168,7 +165,6 @@ body .navig a.aktif{
     border-radius: 25px;
     transition: all 0.5s ease;
     cursor: pointer;
-    -webkit-user-select: text;
 }
 
 .tombol a{
