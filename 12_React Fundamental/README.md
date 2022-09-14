@@ -11,6 +11,7 @@ const element = <h1>Hello, world!</h1>
 ```
 
 <br>
+
 ### Kenapa Menggunakan JSX?
 
 - JSX dibuatkan berdasarkan fakta kalau logika rendering sangat terikat dengan logic UI
