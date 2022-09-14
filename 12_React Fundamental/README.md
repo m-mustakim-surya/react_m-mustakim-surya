@@ -12,6 +12,7 @@ const element = <h1>Hello, world!</h1>
 
 <br>
 ### Kenapa Menggunakan JSX?
+
 - JSX dibuatkan berdasarkan fakta kalau logika rendering sangat terikat dengan logic UI
 - Separation of Technology -> Separation of Concerns
 - JSX memudahkan dalam menulis aplikasi React
@@ -32,11 +33,15 @@ const element = <h1>Hello, world!</h1>
 Komponen React adalah bagian kode yang dapat digunakan kembali yang digunakan untuk menentukan tampilan, behavior, dan state sebagian UI.
 
 <br>
+
 ### One Way Data Flow
+
 One way data flow adalah suatu teknik yang hanya memiliki satu cara untuk mentransfer data ke seluruh aplikasi. Dengan teknik ini, kontrol terhadap data jadi lebih baik.
 
 <br>
+
 ### Komposisi Komponen
+
 - Kontainmen
 - Spesialisasi
 
@@ -50,7 +55,9 @@ One way data flow adalah suatu teknik yang hanya memiliki satu cara untuk mentra
 - `componentWillUnmount()`
 
 <br>
+
 ### Lifecycle Method Yang Lainnya
+
 - `shouldComponentUpdate()`
 - `static getDerivedStateFromProps()`
 - `getSnapshotBeforeUpdate()`
@@ -66,13 +73,16 @@ Pada React, kita dapat membuat komponen berbeda yang mencakup perilaku yang dibu
 - Mencegah komponen untuk rendering
 
 <br>
+
 ### Render List
+
 Kita dapat membangun koleksi dari beberapa elemen dan menyertakannya dalam JSX menggunakan tanda kurung kurawal `{}`.
 
 <br>
+
 ### Key
+
 Key membantu React untuk mengidentifikasi item mana yang telah diubah, ditambahkan, atau dihilangkan.
-Komponen React adalah bagian kode yang dapat digunakan kembali yang digunakan untuk menentukan tampilan, behavior, dan state sebagian UI.
 
 
 <br><br>
