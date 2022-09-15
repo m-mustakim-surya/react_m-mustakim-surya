@@ -136,7 +136,7 @@ Buatlah sebuah aplikasi daftar tugas (todo list). Daftar barang itu memiliki 3 f
 
 <br><br>
 
-Berikut ini merupakan hasil kerja saya : [Praktikum Fundamental React](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/12_React-Fundamental/12_React%20Fundamental/praktikum/reactfundamental)
+Berikut ini merupakan hasil kerja saya : [Praktikum React Fundamental](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/12_React-Fundamental/12_React%20Fundamental/praktikum/reactfundamental)
 
 <br>
 
