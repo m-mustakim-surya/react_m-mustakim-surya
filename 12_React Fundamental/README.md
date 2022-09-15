@@ -101,3 +101,43 @@ Terdapat beberapa bentuk styling inline pada React yang meliputi :
 - Classes dan CSS
 - Atribut style
 - Module CSS
+
+<br><br><br>
+
+# Praktikum React Fundamental
+Buatlah sebuah aplikasi daftar tugas (todo list). Daftar barang itu memiliki 3 field yakni id (number), name (string), dan completed (boolean). Aplikasi completed adalah "True" maka nama todo-nya akan tercoret. Berikut ini tampilan aplikasi setelah dibuat. Poin terpenting adalah teman-teman mampu melakukan komposisi komponen, implementasi list rendering & styling.
+<br><br> Teman-teman bebas dalam membuat bentuk data pada assignment ini. Di bawah ini ada contoh data yang bisa teman-teman pakai :
+<br>
+
+```jsx
+[
+    {
+        id: 1,
+        title: "Membuat Komponen",
+        completed: true,
+    },
+    {
+        id: 2,
+        title: "Unit Testing",
+        completed: false,
+    },
+    {
+        id: 3,
+        title: "Setup Development Environment",
+        completed: true,
+    },
+    {
+        id: 4,
+        title: "Deploy ke server",
+        completed: false,
+    },
+]
+```
+
+<br><br>
+
+Berikut ini merupakan hasil kerja saya : [Praktikum Fundamental React](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/12_React-Fundamental/12_React%20Fundamental/praktikum/reactfundamental)
+
+<br>
+
+![ss_praktikum](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/12_React-Fundamental/12_React%20Fundamental/screenshots/praktikum.PNG)
