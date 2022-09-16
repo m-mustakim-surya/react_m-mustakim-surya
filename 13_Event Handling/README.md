@@ -44,9 +44,10 @@ Stateless Component atau yang disebut juga Dump Component dan Presentational Com
 ## Handling Events
 ### Apa Itu Handling Event
 Handling Event adalah suatu metode untuk menangani sebuah event/aksi yang diberikan pengguna kepada suatu komponen. Event adalah suatu peristiwa yang dipicu oleh pengguna pada suatu komponen, misalnya tombol ditekan.
-<br> Contoh penulisan event sebagai berikut :
 
-<br><br> Pada HTML :
+<br><br> Contoh penulisan event sebagai berikut :
+
+<br> Pada HTML :
 
 ```html
 <button onclick="activateLasers()">
