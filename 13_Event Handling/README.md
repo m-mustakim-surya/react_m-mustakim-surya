@@ -100,7 +100,7 @@ Buatlah daftar pekerjaan yang akan kamu kerjakan, dengan kriteria sebagai beriku
 
 <br> Berikut ini merupakan hasil kerja saya : [Praktikum Event Handling](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/13_Event-Handling/13_Event%20Handling/praktikum/eventhandling)
 
-<br> Tampilan awak aplikasi React :
+<br> Tampilan awal aplikasi React :
 <br> ![Tampilan-Awal](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/13_Event-Handling/13_Event%20Handling/screenshots/01_Tampilan-Awal.PNG)
 
 <br>
