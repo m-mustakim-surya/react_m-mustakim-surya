@@ -7,6 +7,8 @@ Router merupakan modul dalam react yang berfungsi untuk melakukan proses navigas
 - Multi Page Application (MPA) juga disebut dengan tradisional web app adalah jenis aplikasi website dimana perlu memuat ulang seluruh halaman web setiap kali membuat permintaan baru.
 - Single Page Application (SPA) adalah salah satu jenis aplikasi website dimana hanya ada 1 halaman yang menangani semua aktivitas yang terjadi dalam aplikasi tersebut.
 
+<br>
+
 ### Keunggulan SPA & MPA
 
 | Single Page Application                 | Multi Page Application |
@@ -16,6 +18,8 @@ Router merupakan modul dalam react yang berfungsi untuk melakukan proses navigas
 | Front-end yang cepat dan responsif      | Menggunakan tools analisis seperti Google Analytics yang dapat terintegrasi langsung dengan website |
 | Meningkatkan pengalaman pengguna (User Experience) |   |
 
+<br>
+
 ### Kekurangan SPA & MPA
 
 | Single Page Application                 | Multi Page Application |
@@ -24,6 +28,8 @@ Router merupakan modul dalam react yang berfungsi untuk melakukan proses navigas
 | Berat saat di-load/buka pertama kali      | Perlu mengintegrasikan antara front-end dan back-end |
 | Kurang aman dibanding dengan website biasa      | Lebih sering membutuhkan maintenance dan update |
 | Masalah kompatibilitas browser | Mungkin akan lebih sering menemukan masalah performa pada website  |
+
+<br>
 
 ### React Router
 
