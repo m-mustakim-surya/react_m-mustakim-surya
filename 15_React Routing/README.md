@@ -95,8 +95,8 @@ Lanjutkan daftar pekerjaan yang telah kamu kerjakan saat assignment React Hooks 
 4. Jika link mengarah ke halaman yang sama berikan replace atau redirect agar tidak menambah history baru pada browser (optional, nilai tambah)
 5. Icon atau tampilan navbar bebas namun konsep tetap sama
 
-## Hasil Kerja Saya
-Berikut ini link praktikum React Routing saya : [Praktikum React Routing](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/15_React-Routing/15_React%20Routing/praktikum/reactrouting)
+## Hasil Kerja
+Berikut ini merupakan hasil praktikum React Routing saya : [Praktikum React Routing](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/15_React-Routing/15_React%20Routing/praktikum/reactrouting)
 
 <br>
 
@@ -117,6 +117,8 @@ Berikut ini link praktikum React Routing saya : [Praktikum React Routing](https:
 
 ### About Author
 ![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/04_About-Author.PNG)
+
+<br>
 
 ### Page Not Found
 ![05](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/05_Not-Found.PNG)
