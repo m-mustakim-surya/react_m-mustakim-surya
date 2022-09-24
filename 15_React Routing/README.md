@@ -83,3 +83,40 @@ Parameter URL adalah suatu parameter yang nilainya ditetapkan secara dinamis di 
 
 ### useRouteMatch
 `useRouteMatch` mencoba mencocokkan URL saat ini dengan cara yang sama seperti `<Route>`. Ini sebagian besar berguna untuk mendapatkan akses ke data kecocokan tanpa benar-benar merender `<Route>`.
+
+<br><br>
+
+# Praktikum React Routing
+Lanjutkan daftar pekerjaan yang telah kamu kerjakan saat assignment React Hooks sebelumnya, kerjakan dengan kriteria sebagai berikut :
+
+1. Buatlah navbar dengan menggunakan link, home dengan `path = "/"`, dan about dengan `path = "/about"` seperti contoh gambar di bawah.
+2. Untuk page about terdapat navbar baru yaitu About App dengan `path = "/about/about-app"`, dan About Author dengan `path = "/about/about-author"`
+3. Jika path yang diinputkan tidak ada dalam route yang kita buat, buatlah page not match/not found pada path tersebut
+4. Jika link mengarah ke halaman yang sama berikan replace atau redirect agar tidak menambah history baru pada browser (optional, nilai tambah)
+5. Icon atau tampilan navbar bebas namun konsep tetap sama
+
+## Hasil Kerja Saya
+Berikut ini link praktikum React Routing saya : [Praktikum React Routing](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/15_React-Routing/15_React%20Routing/praktikum/reactrouting)
+
+<br>
+
+### Tampilan Awal Aplikasi React
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/01_Tampilan-Awal.PNG)
+
+<br>
+
+### Navigation Bar Home
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/02_Navbar-Home.PNG)
+
+<br>
+
+### About App
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/03_About-App.PNG)
+
+<br>
+
+### About Author
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/04_About-Author.PNG)
+
+### Page Not Found
+![05](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/15_React-Routing/15_React%20Routing/screenshots/05_Not-Found.PNG)
