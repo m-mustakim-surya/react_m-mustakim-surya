@@ -148,3 +148,52 @@ Pada dasarnya, ada 3 alasan mengapa validasi form diperlukan:
 Validasi dengan Javascript dapat dilakukan ketika :
 - Ketika ada perubahan di form. Ketika ada perubahan, akan mentrigger event onChange. Real-time berdasarkan perubahan data, namun fungsi validasi akan terus dipanggil selama ada perubahan. Bisa dikombinasikan dengan disable button.
 - Ketika menekan tombol submit. Ketika menekan tombol submit, akan mentrigger event on Submit. Kelebihannya validasi cukup sekali, namun tidak akan real-time memvalidasi form.
+
+<br><br>
+
+# Praktikum React Form
+Buatlah formulir yang berjudul "Pendaftaran Peserta Coding Bootcamp”. Form pendaftaran tersebut memiliki ketentuan sebagai berikut ini:
+
+- Field "Nama" lengkap wajib, hanya menerima huruf
+- Field "Email" wajib
+- Field "No Handphone" wajib, panjangnya 9-14 karakter, berupa angka
+- Field "Latar Belakang Pendidikan", wajib, berupa radio button pilihannya IT dan Non IT
+- Field "Kelas Koding yang Dipilih“, wajib. Pilihannya ada tiga yakni
+  1. Coding Backend with Golang 
+  2. Coding Frontend with ReactJS
+  3. Fullstack Developer Field
+
+- "Foto Surat Kesungguhan" bersifat wajib. 
+- Field "Harapan Untuk Coding Bootcamp Ini“ bersifat opsional.
+- Tombol "Submit" untuk mensubmit data dan mereset form. Bersifat wajib.
+- Tombol "Reset" untuk mereset form dan mereset pesan error. Bersifat tidak wajib.
+
+<br> Apabila ada error, bisa ditampilkan antara form dan tombol submit. Ketika tombol submit ditekan, akan muncul alert baik ketika ada error maupun saat data benar. Utamakan fungsionalitasnya. Kerapihan dan inovasi menjadi suatu nilai tambah.
+
+<br>
+
+## Hasil Kerja
+Berikut ini merupakan hasil praktikum React Form saya : [Praktikum React Form](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/16_React-Form/16_React%20Form/praktikum/reactform)
+
+### Tampilan Awal Aplikasi React
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/16_React-Form/16_React%20Form/screenshots/01_Tampilan-Awal.PNG)
+
+<br>
+
+### Pesan Error
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/16_React-Form/16_React%20Form/screenshots/02_Pesan-Error.PNG)
+
+<br>
+
+### Input Required
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/16_React-Form/16_React%20Form/screenshots/03_Required.PNG)
+
+<br>
+
+### Data Tidak Sesuai
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/16_React-Form/16_React%20Form/screenshots/04_Data-Tidak-Sesuai.PNG)
+
+<br>
+
+### Data Diterima
+![05](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/16_React-Form/16_React%20Form/screenshots/05_Data-Diterima.PNG)
