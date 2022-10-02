@@ -12,10 +12,14 @@ const Form = () => {
     harapan: ""
   };
 
+  const errorMsgs = {
+    nama: "",
+    email: "",
+    noHandphone: ""
+  };
+
   const [baseData, setBaseData] = useState(data);
-  const [errorNama, setErrorNama] = useState("");
-  const [errorEmail, setErrorEmail] = useState("");
-  const [errorHandphone, setErrorHandphone] = useState("");
+  const [errorMsg, setErrorMsg] = useState(errorMsgs);
   const inputFile = useRef(null);
   
   const changeHandler = (e) => {
@@ -26,33 +30,33 @@ const Form = () => {
     
     if (e.target.name === "nama") {
       if (nameRegex.test(e.target.value)) {
-        setErrorNama("");
+        setErrorMsg({ ...errorMsg, nama: ""});
       } else {
-        setErrorNama("Nama Lengkap Harus Berupa Huruf");
+        setErrorMsg({ ...errorMsg, nama: "Nama Lengkap Harus Berupa Huruf"});
       }
     }
     
     if (e.target.name === "email") {
       if (emailRegex.test(e.target.value)) {
-        setErrorEmail("");
+        setErrorMsg({ ...errorMsg, email: ""});
       } else {
-        setErrorEmail("Email Tidak Sesuai");
+        setErrorMsg({ ...errorMsg, email: "Email Tidak Sesuai"});
       }
     }
-
+    
     if (e.target.name === "noHandphone") {
       if (handphoneRegex.test(e.target.value)) {
-        setErrorHandphone("");
+        setErrorMsg({ ...errorMsg, noHandphone: ""});
       } else {
-        setErrorHandphone("No Handphone Tidak Sesuai");
+        setErrorMsg({ ...errorMsg, noHandphone: "No Handphone Tidak Sesuai"});
       }
     }
   };
   
   const submitHandler = () => {
-    if (errorNama !== "" ||
-      errorEmail !== "" ||
-      errorHandphone !== "" ||
+    if (errorMsg.nama !== "" ||
+      errorMsg.email !== "" ||
+      errorMsg.noHandphone !== "" ||
       baseData.nama === "" ||
       baseData.email === "" ||
       baseData.noHandphone === "") {
@@ -66,9 +70,7 @@ const Form = () => {
   const resetHandler = (e) => {
     e.preventDefault();
     setBaseData(baseData);
-    setErrorNama("");
-    setErrorEmail("");
-    setErrorHandphone("");
+    setErrorMsg("");
   };
   
 
@@ -84,7 +86,7 @@ const Form = () => {
           onChange={changeHandler}
           required
           />
-        <p>{errorNama}</p>
+        <p>{errorMsg.nama}</p>
 
         <label>Email:</label>
         <input
@@ -94,7 +96,7 @@ const Form = () => {
           onChange={changeHandler}
           required
         />
-        <p>{errorEmail}</p>
+        <p>{errorMsg.email}</p>
 
         <label>No Handphone:</label>
         <input
@@ -104,7 +106,7 @@ const Form = () => {
           onChange={changeHandler}
           required
         />
-        <p>{errorHandphone}</p>
+        <p>{errorMsg.noHandphone}</p>
       </div>
       <div className="inputRadio">
         <label>Latar Belakang Pendidikan:</label>
