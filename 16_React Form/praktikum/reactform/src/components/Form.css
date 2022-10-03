@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+
+form {
+    width: 700px;
+    position: relative;
+    margin: 5px auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+input[type="text"],
+input[type="file"],
+select,
+textarea {
+    display: block;
+}
+
+input[type="text"],
+select,
+textarea {
+    width: 700px;
+}
+
+input[type="text"],
+select {
+    height: 30px;
+}
+
+input[type="file"] {
+    margin-left: 10px;
+}
+
+textarea {
+    height: 100px;
+}
+
+p {
+    color: red;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.dropdown,
+.inputFile,
+.inputTextarea {
+    margin-top: 15px;
+}
+
+.buttonSubmit,
+.buttonReset {
+    width: 120px;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    margin-top: 40px;
+}
+
+.buttonSubmit {
+    background-color: green;
+}
+
+.buttonReset {
+    background-color: red;
+    margin-left: 15px;
+}
