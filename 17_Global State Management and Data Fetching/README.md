@@ -173,3 +173,21 @@ Postman adalah platform API bagi pengembang untuk merancang, membangun, menguji,
 - Antarmuka yang sederhana
 - POSTMAN gratis hingga 3 anggota dan koleksi tak terbatas
 
+<br><br>
+
+# Praktikum Global State Management and Data Fetching
+Link soal : [Soal Praktikum Global State Management and Data Fetching](https://docs.google.com/document/d/1bILSP0YUa1dWaK77CU5FTeTIYs39F2ewY5uACGT5rlw/edit)
+
+<br>
+
+## Hasil Praktikum Global State Management
+Berikut ini merupakan hasil praktikum Global State Management saya : [Praktikum Global State Management](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/17_Global-State-Management-and-Data-Fetching/17_Global%20State%20Management%20and%20Data%20Fetching/praktikum/global-state-management)
+
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/17_Global-State-Management-and-Data-Fetching/17_Global%20State%20Management%20and%20Data%20Fetching/screenshots/01_Global-State-Management.PNG)
+
+<br>
+
+## Hasil Praktikum Data Fetching
+Berikut ini merupakan hasil praktikum Data Fetching saya : [Praktikum Data Fetching](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/17_Global-State-Management-and-Data-Fetching/17_Global%20State%20Management%20and%20Data%20Fetching/praktikum/data-fetching)
+
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/17_Global-State-Management-and-Data-Fetching/17_Global%20State%20Management%20and%20Data%20Fetching/screenshots/02_Data-Fetching.PNG)
