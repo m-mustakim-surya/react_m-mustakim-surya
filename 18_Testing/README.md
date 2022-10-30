@@ -156,3 +156,16 @@ npm install -D @testing-library/react-hooks
 - Testing Value
 - Testing Callback
 - Testing Re-render
+
+<br><br>
+
+# Praktikum Testing
+Link soal : [Soal Praktikum Testing](https://docs.google.com/document/d/1TfomhCN9S7BCozMztdmo6Guz7lgrgdC7eMxX03oClzU/edit)
+<br> Link asset : [Asset Praktikum Testing](https://drive.google.com/drive/folders/10oUNm1wSUhDhQhGCkQZZmrlHksb9HaNy)
+
+<br>
+
+## Hasil Praktikum Testing
+Berikut ini merupakan hasil praktikum Testing saya : [Praktikum Testing](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/18_Testing/18_Testing/praktikum/testing)
+
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/18_Testing/18_Testing/screenshots/Testing.PNG)
