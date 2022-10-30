@@ -54,5 +54,6 @@ Link soal : [Soal Praktikum Deployment](https://docs.google.com/document/d/1aSMZ
 
 ## Hasil Praktikum Deployment
 Berikut ini merupakan hasil praktikum Deployment saya : [Praktikum Deployment](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/19_Deployment/19_Deployment/praktikum/deployment)
+<br> Link deployment di Surge : [http://taskdeploy-mmustakimsurya.surge.sh/](http://taskdeploy-mmustakimsurya.surge.sh/)
 
 ![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/19_Deployment/19_Deployment/screenshots/Deployment.PNG)
