@@ -44,3 +44,15 @@ Terkadang kita tidak ingin mempublikasikan sebagian domain atau subdomain. Untuk
 4. Verify akun melalui browser, pilih Authorize.
 5. Pilih "Create & configure a new site". Untuk team, pilih yang sudah tersedia. Site name opsional.
 6. Pilih lokasi file yang akan dideplou. Pilih ./build
+
+<br><br>
+
+# Praktikum Deployment
+Link soal : [Soal Praktikum Deployment](https://docs.google.com/document/d/1aSMZRdwOlMiwqWwzOKLSGj06jSeMyCa-TcAIjvpFTfQ/edit)
+
+<br>
+
+## Hasil Praktikum Deployment
+Berikut ini merupakan hasil praktikum Deployment saya : [Praktikum Deployment](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/19_Deployment/19_Deployment/praktikum/deployment)
+
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/19_Deployment/19_Deployment/screenshots/Deployment.PNG)
