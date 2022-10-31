@@ -95,3 +95,38 @@ Refeteching memungkinkan untuk menyegarkan hasil query sebagai response terhadap
 
 ### Subscription using subscribeToMore
 subscribeToMore adalah function yang memungkinkan kita untuk menjalankan subscription, biasanya subscribe ke bidang tertentu yang disertakan dalam query. Atau ketika server hanya mengembalikan 1 data yang diperbarui, bukan semua data, maka kita perlu memperbarui data sebelumnya dalam variabel sebelumnya dan mengembalikan data yang diperbarui.
+
+<br><br>
+
+# Praktikum GraphQL - Basic
+Link soal : [Soal Praktikum GraphQL - Basic](https://docs.google.com/document/d/1JFNrbzTj03DPHLANU_SXRf6eg5ENRC8g9V37WRlW9Tw/edit)
+
+<br>
+
+## Hasil Praktikum GraphQL - Basic
+Berikut ini merupakan hasil praktikum GraphQL - Basic saya : [Praktikum GraphQL - Basic](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/20_GraphQL-Basic/20_GraphQL%20-%20Basic/praktikum)
+
+### Membuat Tabel Anggota dan Memasukkan Datanya
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/01.PNG)
+
+<br>
+
+### Membuat Tabel Keterangan dan Memasukkan Datanya
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/02.PNG)
+
+<br>
+
+### Melakukan Query Untuk Memanggil Siswa dengan Status True
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/03.PNG)
+
+<br>
+
+### Melakukan Insert dengan Menggunakan Mutation
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/04.PNG)
+
+![05](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/05.PNG)
+
+<br>
+
+### Melakukan Update dengan Menggunakan Mutation Terhadap Data Ber-Status False Menjadi True
+![06](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/06.PNG)
