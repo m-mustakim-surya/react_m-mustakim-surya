@@ -95,3 +95,21 @@ Refeteching memungkinkan untuk menyegarkan hasil query sebagai response terhadap
 
 ### Subscription using subscribeToMore
 subscribeToMore adalah function yang memungkinkan kita untuk menjalankan subscription, biasanya subscribe ke bidang tertentu yang disertakan dalam query. Atau ketika server hanya mengembalikan 1 data yang diperbarui, bukan semua data, maka kita perlu memperbarui data sebelumnya dalam variabel sebelumnya dan mengembalikan data yang diperbarui.
+
+<br><br>
+
+# Praktikum GraphQL - Query and Apollo Client
+Link soal : [Soal Praktikum GraphQL - Query and Apollo Client](https://docs.google.com/document/d/1adlkVrgw52__qGZdXFAJoCuCCA0xCq8tSyArmNAjeOY/edit)
+
+<br>
+
+## Hasil Praktikum GraphQL - Query and Apollo Client
+Berikut ini merupakan hasil praktikum GraphQL - Query and Apollo Client saya : [Praktikum GraphQL - Query and Apollo Client](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/22_GraphQL-Query-and-Apollo-client/22_GraphQL%20-%20Query%20and%20Apollo%20client/praktikum/queryapollo)
+
+### Melakukan Query Menampilkan Seluruh Data
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/22_GraphQL-Query-and-Apollo-client/22_GraphQL%20-%20Query%20and%20Apollo%20client/screenshots/01.PNG)
+
+<br>
+
+### Melakukan Query Menampilkan Data By Id
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/22_GraphQL-Query-and-Apollo-client/22_GraphQL%20-%20Query%20and%20Apollo%20client/screenshots/02.PNG)
