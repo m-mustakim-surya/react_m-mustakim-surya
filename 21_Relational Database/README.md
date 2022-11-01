@@ -86,3 +86,25 @@ Sebuah kumpulan statement yang akan mengembalikan sebah nilai balik pada pemangg
 - DECLARE
 - OLD
 - NEW
+
+<br><br>
+
+# Praktikum GraphQL - Basic
+Link soal : [Soal Praktikum GraphQL - Basic](https://docs.google.com/document/d/10l_iKfLUA0VZo8RpTfgvIN53K18XiDM7FrWrmztv5fI/edit)
+
+<br>
+
+## Hasil Praktikum Relational Database
+Berikut ini merupakan hasil praktikum Relational Database saya : [Praktikum Relational Database](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/21_Relational-Database/21_Relational%20Database/screenshots)
+
+### Relasi One To One
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/21_Relational-Database/21_Relational%20Database/screenshots/01.PNG)
+
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/21_Relational-Database/21_Relational%20Database/screenshots/01_Hasil.PNG)
+
+<br>
+
+### Relasi One To Many
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/21_Relational-Database/21_Relational%20Database/screenshots/02.PNG)
+
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/21_Relational-Database/21_Relational%20Database/screenshots/02_Hasil.PNG)
