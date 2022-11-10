@@ -96,3 +96,30 @@ Refeteching memungkinkan untuk menyegarkan hasil query sebagai response terhadap
 ### Subscription using subscribeToMore
 subscribeToMore adalah function yang memungkinkan kita untuk menjalankan subscription, biasanya subscribe ke bidang tertentu yang disertakan dalam query. Atau ketika server hanya mengembalikan 1 data yang diperbarui, bukan semua data, maka kita perlu memperbarui data sebelumnya dalam variabel sebelumnya dan mengembalikan data yang diperbarui.
 
+<br><br>
+
+# Praktikum GraphQL - Mutation
+Link soal : [Soal Praktikum GraphQL - Mutation](https://docs.google.com/document/d/1QB3Yc5irk_zeIYZo5rxR6CGnMXGiICTujlyaWuZ7xqc/edit)
+
+<br>
+
+## Hasil Praktikum GraphQL - Mutation
+Berikut ini merupakan hasil praktikum GraphQL - Mutation saya : [Praktikum GraphQL - Mutation](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/praktikum/mutation)
+
+### Tampilan Awal Aplikasi
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/screenshots/01.PNG)
+
+<br>
+
+### Fitur Submit (Insert)
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/screenshots/02_Submit.PNG)
+
+<br>
+
+### Fitur Delete
+![03]https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/screenshots/03_Delete.PNG)
+
+<br>
+
+### Fitur Edit (Update)
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/screenshots/04_Update.PNG)
