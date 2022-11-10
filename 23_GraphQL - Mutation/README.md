@@ -117,7 +117,7 @@ Berikut ini merupakan hasil praktikum GraphQL - Mutation saya : [Praktikum Graph
 <br>
 
 ### Fitur Delete
-![03]https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/screenshots/03_Delete.PNG)
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/23_GraphQL-Mutation/23_GraphQL%20-%20Mutation/screenshots/03_Delete.PNG)
 
 <br>
 
