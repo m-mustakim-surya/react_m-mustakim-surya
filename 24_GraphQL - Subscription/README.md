@@ -96,3 +96,15 @@ Refeteching memungkinkan untuk menyegarkan hasil query sebagai response terhadap
 ### Subscription using subscribeToMore
 subscribeToMore adalah function yang memungkinkan kita untuk menjalankan subscription, biasanya subscribe ke bidang tertentu yang disertakan dalam query. Atau ketika server hanya mengembalikan 1 data yang diperbarui, bukan semua data, maka kita perlu memperbarui data sebelumnya dalam variabel sebelumnya dan mengembalikan data yang diperbarui.
 
+<br><br>
+
+# Praktikum GraphQL - Subscription
+Link soal : [Soal Praktikum GraphQL - Subscription](https://docs.google.com/document/d/1gw4hP-DPt5Um9LyaZ_5OIo2Od8he0t43Aj576_xHFOs/edit)
+
+<br>
+
+## Hasil Praktikum GraphQL - Subscription
+Berikut ini merupakan hasil praktikum GraphQL - Subscription saya : [Praktikum GraphQL - Subscription](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/24_GraphQL-Subscription/24_GraphQL%20-%20Subscription/praktikum/subscription)
+
+### Melakukan Subscription dan Terhubung Dengan WebSocket
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/24_GraphQL-Subscription/24_GraphQL%20-%20Subscription/screenshots/01.PNG)
