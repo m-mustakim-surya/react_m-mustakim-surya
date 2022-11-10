@@ -1,0 +1,9 @@
+query getStatusTrue {
+  keterangan(where: {status: {_eq: true}}) {
+    id
+    id_anggota
+    nilai
+    pelajaran
+    status
+  }
+}

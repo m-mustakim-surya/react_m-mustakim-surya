@@ -1,4 +1,4 @@
-# Resume Materi KMReact - GraphQL-Query and Apollo Client
+# Resume Materi KMReact - GraphQL-Basic
 ## GraphQL Overview
 ### What Is GraphQL
 GraphQL adalah bahasa query untuk API, dan runtime sisi server untuk mengeksekusi query dengan menggunakan sistem tipe yang ditetapkan untuk data. GraphQL meminimalkan jumlah data yang perlu ditransfer melalui jaringan. Dengan graphQL kita dapat menggunakan satu titik akhir tunggal (/graphQL) untuk setiap permintaan yang diperlukan.
@@ -98,18 +98,35 @@ subscribeToMore adalah function yang memungkinkan kita untuk menjalankan subscri
 
 <br><br>
 
-# Praktikum GraphQL - Query and Apollo Client
-Link soal : [Soal Praktikum GraphQL - Query and Apollo Client](https://docs.google.com/document/d/1adlkVrgw52__qGZdXFAJoCuCCA0xCq8tSyArmNAjeOY/edit)
+# Praktikum GraphQL - Basic
+Link soal : [Soal Praktikum GraphQL - Basic](https://docs.google.com/document/d/1JFNrbzTj03DPHLANU_SXRf6eg5ENRC8g9V37WRlW9Tw/edit)
 
 <br>
 
-## Hasil Praktikum GraphQL - Query and Apollo Client
-Berikut ini merupakan hasil praktikum GraphQL - Query and Apollo Client saya : [Praktikum GraphQL - Query and Apollo Client](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/22_GraphQL-Query-and-Apollo-client/22_GraphQL%20-%20Query%20and%20Apollo%20client/praktikum/queryapollo)
+## Hasil Praktikum GraphQL - Basic
+Berikut ini merupakan hasil praktikum GraphQL - Basic saya : [Praktikum GraphQL - Basic](https://github.com/m-mustakim-surya/react_m-mustakim-surya/tree/20_GraphQL-Basic/20_GraphQL%20-%20Basic/praktikum)
 
-### Melakukan Query Menampilkan Seluruh Data
-![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/22_GraphQL-Query-and-Apollo-client/22_GraphQL%20-%20Query%20and%20Apollo%20client/screenshots/01.PNG)
+### Membuat Tabel Anggota dan Memasukkan Datanya
+![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/01.PNG)
 
 <br>
 
-### Melakukan Query Menampilkan Data By Id
-![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/22_GraphQL-Query-and-Apollo-client/22_GraphQL%20-%20Query%20and%20Apollo%20client/screenshots/02.PNG)
+### Membuat Tabel Keterangan dan Memasukkan Datanya
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/02.PNG)
+
+<br>
+
+### Melakukan Query Untuk Memanggil Siswa dengan Status True
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/03.PNG)
+
+<br>
+
+### Melakukan Insert dengan Menggunakan Mutation
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/04.PNG)
+
+![05](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/05.PNG)
+
+<br>
+
+### Melakukan Update dengan Menggunakan Mutation Terhadap Data Ber-Status False Menjadi True
+![06](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/20_GraphQL-Basic/20_GraphQL%20-%20Basic/screenshots/06.PNG)
