@@ -1,0 +1,11 @@
+mutation insertKeterangan($id_anggota: Int, $nilai: Int, $pelajaran: String, $status: Boolean) {
+  insert_keterangan(objects: {id_anggota: $id_anggota, nilai: $nilai, pelajaran: $pelajaran, status: $status}) {
+    returning {
+      id
+      id_anggota
+      nilai
+      pelajaran
+      status
+    }
+  }
+}
