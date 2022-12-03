@@ -1,0 +1,17 @@
+.home {
+  background-image: url(./assets/yn.jpg);
+  background-size: cover;
+  height: 800px;
+}
+
+.contact-section {
+  height: 700px;
+}
+
+.text-area-section {
+  height: 100px
+}
+
+.avatar {
+  height: 300px;
+}
