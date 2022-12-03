@@ -10,18 +10,18 @@ Berikut ini merupakan hasil Weekly Task 3 saya : [Weekly Task 3](https://github.
 ![01](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%203/screenshot/01_Welcome.PNG)
 
 ### About Us
-![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%202/screenshot/02_AboutUs.PNG)
+![02](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%203/screenshot/02_AboutUs.PNG)
 
 ### Contact Us
-![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%202/screenshot/03_Contact.PNG)
+![03](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%203/screenshot/03_Contact.PNG)
 
 
 ### Alert Contact Us
-![03b](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%202/screenshot/03b_Contact.PNG)
+![03b](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%203/screenshot/03b_Contact.PNG)
 
 
 ### Footer
-![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%202/screenshot/04_Footer.PNG)
+![04](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%203/screenshot/04_Footer.PNG)
 
 ### About
 ![05](https://github.com/m-mustakim-surya/react_m-mustakim-surya/blob/Weekly-Task-3/Weekly%20Task%203/screenshot/05_About.PNG)
